@@ -13,6 +13,11 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.obj
+*.tlog
+*.log
+*.pdb
+*.exe
 
 # Windows shortcuts
 *.lnk
@@ -47,4 +52,5 @@ Temporary Items
 /Debug
 /PKOModelViewer/obj
 /PKOModelViewer/bin
+/PKOModelViewer/.vs
 /PKOModelLib/Debug
